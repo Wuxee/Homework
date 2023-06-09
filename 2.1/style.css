@@ -1,0 +1,7 @@
+h1 {
+    text-align: center;
+    background-color: gold;
+}
+a:hover {
+    background-color: rgb(93, 131, 236);
+}
